@@ -1,0 +1,5 @@
+﻿  Main.c
+C:\Visual C\Covid-19\Main.c(18,7): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+  Menu.c
+  코드를 생성하고 있습니다...
+  Covid-19.vcxproj -> C:\Visual C\Covid-19\x64\Debug\Covid-19.exe
